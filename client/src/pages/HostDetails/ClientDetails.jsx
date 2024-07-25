@@ -1,4 +1,3 @@
-// src/components/Popup.jsx
 import React, { useState } from "react";
 import { FaTimes, FaEdit, FaSave } from "react-icons/fa";
 
