@@ -10,19 +10,19 @@ const EarningsAndPayments = () => {
   const itemsPerPage = 5;
   const hosts = [
     {
-      username: "John Doe",
+      username: "Mahatama Gandhi",
       amount: "₹5000",
       date: "2024-07-25",
       status: "Completed",
     },
     {
-      username: "Jane Smith",
+      username: "Rahul Gandhi",
       amount: "₹3000",
       date: "2024-07-24",
       status: "Pending",
     },
     {
-      username: "Michael Johnson",
+      username: "Soniya Gandhi",
       amount: "₹7000",
       date: "2024-07-23",
       status: "Failed",
